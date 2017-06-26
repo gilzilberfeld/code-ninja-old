@@ -1,8 +1,8 @@
 package com.codeninja.solidsolution.rules;
 
-public class PremiumAllowanceRule extends AllowanceRule {
+public class PremiumAllowanceRule implements IAllowanceRule  {
 
-	public int getFactor() {
+		public int getFactor() {
 		return 2;
 	}
 }
