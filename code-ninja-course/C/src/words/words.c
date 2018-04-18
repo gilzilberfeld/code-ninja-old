@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int find()
 {
 	printf("Enter a list of words followed by end-of-file: ");

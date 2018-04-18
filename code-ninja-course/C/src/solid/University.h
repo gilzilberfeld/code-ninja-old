@@ -1,10 +1,3 @@
-/*
- * University.h
- *
- *  Created on: 17 ????? 2018
- *      Author: Gil
- */
-
 #ifndef SRC_SOLID_UNIVERSITY_H_
 #define SRC_SOLID_UNIVERSITY_H_
 

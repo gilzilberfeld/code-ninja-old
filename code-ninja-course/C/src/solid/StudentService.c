@@ -1,9 +1,3 @@
-/*
- * StudentService.c
- *
- *  Created on: 17 ????? 2018
- *      Author: Gil
- */
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>

@@ -2,8 +2,8 @@
 
 int main( )
 {
-	find();
-
+	runAllTests();
+//	find();
 	return 0;
 }
 
