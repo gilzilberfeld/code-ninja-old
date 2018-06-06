@@ -85,6 +85,7 @@
     <Compile Include="Code\SOLID\University.cs" />
     <Compile Include="Code\SOLID\UniversityRepository.cs" />
     <Compile Include="Code\StarWars\LightSaber.cs" />
+    <Compile Include="Code\Words\Words.cs" />
     <Compile Include="Tests\Factorials\FactorialTests.cs" />
     <Compile Include="Tests\GildedRose\GildedRoseApprovalTests.cs" />
     <Compile Include="Tests\GildedRose\GildedRoseRunner.cs" />
