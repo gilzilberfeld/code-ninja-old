@@ -4,7 +4,7 @@ namespace LegacyCodeToTestableCode
 {
     public class University
     {
-        int _ID;
+        int _ID=0;
 
         public int GetID()
         {

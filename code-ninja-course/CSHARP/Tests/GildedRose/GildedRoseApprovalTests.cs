@@ -19,7 +19,7 @@ namespace LegacyCodeToTestableCode
             Console.SetOut(new StringWriter(fakeoutput));
             Console.SetIn(new StringReader("a\n"));
 
-            GildedRoseRunner.Main(new string[] { });
+            GildedRoseExamples.Run();
             string output = fakeoutput.ToString();
             Approvals.Verify(output);
         }

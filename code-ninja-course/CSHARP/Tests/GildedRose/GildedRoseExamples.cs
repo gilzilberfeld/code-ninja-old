@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace LegacyCodeToTestableCode
 {
-    public class GildedRoseRunner
+    public class GildedRoseExamples
     {
-        public static void Main(string[] args)
+        public static void Run()
         {
             Console.WriteLine("OMGHAI!");
 

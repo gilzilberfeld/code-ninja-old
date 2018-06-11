@@ -88,7 +88,7 @@
     <Compile Include="Code\Words\Words.cs" />
     <Compile Include="Tests\Factorials\FactorialTests.cs" />
     <Compile Include="Tests\GildedRose\GildedRoseApprovalTests.cs" />
-    <Compile Include="Tests\GildedRose\GildedRoseRunner.cs" />
+    <Compile Include="Tests\GildedRose\GildedRoseExamples.cs" />
     <Compile Include="Tests\StarWars\LightSaberTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

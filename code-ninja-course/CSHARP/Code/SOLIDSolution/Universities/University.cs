@@ -2,8 +2,7 @@ namespace LegacyCodeToTestableCode.SOLIDSolution
 {
     public class University
     {
-        int ID;
-
+        int ID = 0; 
         public int getID()
         {
             return ID;
