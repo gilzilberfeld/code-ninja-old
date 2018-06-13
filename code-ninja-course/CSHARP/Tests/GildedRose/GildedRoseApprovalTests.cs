@@ -9,11 +9,11 @@ namespace LegacyCodeToTestableCode
 {
     [TestClass]
     [UseReporter(typeof(MsTestReporter))]
-    public class ApprovalTest
+    public class GildedRoseTests
     {
         [Ignore]
         [TestMethod]
-        public void ThirtyDays()
+        public void ThirtyDaysOfGildedRose()
         {
             StringBuilder fakeoutput = new StringBuilder();
             Console.SetOut(new StringWriter(fakeoutput));

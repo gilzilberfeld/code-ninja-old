@@ -266,3 +266,5 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+tdd-c-course/
+tdd-csharp-course/

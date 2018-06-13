@@ -64,6 +64,11 @@
     <Compile Include="Code\FizzBuzz\FizzBuzz.cs" />
     <Compile Include="Code\GildedRose\GildedRose.cs" />
     <Compile Include="Code\GildedRose\Item.cs" />
+    <Compile Include="Code\PastaMaker\Ingredient.cs" />
+    <Compile Include="Code\PastaMaker\IngredientTypes.cs" />
+    <Compile Include="Code\PastaMaker\PastaType.cs" />
+    <Compile Include="Code\PastaMaker\Places.cs" />
+    <Compile Include="Code\PastaMaker\SauceType.cs" />
     <Compile Include="Code\SOLIDSolution\BookAllowanceSetter.cs" />
     <Compile Include="Code\SOLIDSolution\Exceptions\InvalidEmail.cs" />
     <Compile Include="Code\SOLIDSolution\Exceptions\NotImplemented.cs" />
@@ -84,6 +89,7 @@
     <Compile Include="Code\SOLID\StudentService.cs" />
     <Compile Include="Code\SOLID\University.cs" />
     <Compile Include="Code\SOLID\UniversityRepository.cs" />
+    <Compile Include="Code\PastaMaker\PastaMaker.cs" />
     <Compile Include="Code\StarWars\LightSaber.cs" />
     <Compile Include="Code\Words\Words.cs" />
     <Compile Include="Tests\Factorials\FactorialTests.cs" />
