@@ -1,6 +1,6 @@
 ﻿namespace CleanCode
 {
-    enum IngredientTypes
+    public enum IngredientTypes
     {
         Cream,
         Onion,

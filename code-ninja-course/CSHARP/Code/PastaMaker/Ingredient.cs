@@ -1,7 +1,11 @@
 ﻿namespace CleanCode
 {
-    interface Ingredient
+    public class Ingredient
     {
-        bool IsPastaType { get; }
+        public Ingredient(bool isPastaType)
+        {
+            IsPastaType = isPastaType;
+        }
+        public bool IsPastaType { get; private set; }
     }
 }

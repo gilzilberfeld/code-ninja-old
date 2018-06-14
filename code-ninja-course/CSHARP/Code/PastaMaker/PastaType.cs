@@ -1,6 +1,6 @@
 ﻿namespace CleanCode
 {
-    enum PastaType
+    public enum PastaType
     {
         FreshSpaghetti,
         Lasagnia,

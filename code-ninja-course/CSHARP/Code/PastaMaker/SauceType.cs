@@ -1,6 +1,6 @@
 ﻿namespace CleanCode
 {
-    enum SauceType
+    public enum SauceType
     {
         Marinara,
         Alfredo,

@@ -104,6 +104,7 @@
   <ItemGroup>
     <Folder Include="Code\TicTacToe\" />
     <Folder Include="Tests\CalculatorDisplay\" />
+    <Folder Include="Tests\PastaMaker\" />
     <Folder Include="Tests\TicTacToe\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

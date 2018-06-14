@@ -1,12 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CleanCode
 {
-    class PastaMaker
+    public class PastaMaker
     {
         public void Cook(SauceType sauce, PastaType pastaType)
         {
@@ -55,11 +53,14 @@ namespace CleanCode
             }
         }
 
-        private void Fill(List<Ingredient> sauceIngredients) { throw new NotImplementedException(); }
-        private void Prepare(Ingredient ingredient) { throw new NotImplementedException(); }
-        private void CookPasta() { throw new NotImplementedException(); }
-        private void AddSauce() { throw new NotImplementedException(); }
-        private Ingredient GetIngredient(IngredientTypes cream, Places refrigarator) { throw new NotImplementedException(); }
-        private Ingredient GetPasta(PastaType ravioly, object pantry) { throw new NotImplementedException(); }
+        // TODO: Add more implementation
+        private Ingredient GetIngredient(IngredientTypes ingredient, Places place) { return new Ingredient(false); }
+        private Ingredient GetPasta(PastaType pasta, Places place) { return new Ingredient(true); }
+
+        private void Fill(List<Ingredient> sauceIngredients) { }
+        private void Prepare(Ingredient ingredient) { }
+        private void CookPasta() { }
+        private void AddSauce() { }
+
     }
 }
