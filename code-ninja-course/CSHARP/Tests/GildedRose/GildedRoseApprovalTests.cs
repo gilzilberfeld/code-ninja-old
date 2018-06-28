@@ -11,7 +11,7 @@ namespace LegacyCodeToTestableCode
     [UseReporter(typeof(DiffReporter))]
     public class GildedRoseTests
     {
-    //    [Ignore]
+        [Ignore]
         [TestMethod]
         public void ThirtyDaysOfGildedRose()
         {

@@ -8,21 +8,8 @@ import junit.framework.Assert;
 
 public class LightsaberTests {
 
-	private Lightsaber ls;
-
 	@Test
-	public void when_create_then_status_is_not_on() {
-		ls = new Lightsaber();
-		assertFalse(ls.isOn());
+	public void FirstTest() {
 	}
-
-	@Test
-	public void when_turnon_then_status_is_on() {
-		ls = new Lightsaber();
-		ls.turnOn();
-		assertTrue(ls.isOn());
- 	}
-	
-	
 
 }
