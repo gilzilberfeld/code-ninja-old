@@ -269,3 +269,8 @@ dist/
 nbdist/
 .nb-gradle/
 
+code-ninja-course/JAVA/src/main/java/com/codeninja/tictactoe/Board.java
+code-ninja-course/JAVA/src/main/java/com/codeninja/tictactoe/Game.java
+code-ninja-course/JAVA/src/main/java/com/codeninja/tictactoe/Player.java
+code-ninja-course/JAVA/src/main/java/com/codeninja/tictactoe/PlayerTypes.java
+code-ninja-course/JAVA/src/test/java/com/codeninja/tictactoe/GameTests.java
