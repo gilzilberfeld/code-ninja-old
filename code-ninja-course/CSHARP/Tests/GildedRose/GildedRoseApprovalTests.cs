@@ -8,10 +8,10 @@ using System.Text;
 namespace LegacyCodeToTestableCode
 {
     [TestClass]
-    [UseReporter(typeof(MsTestReporter))]
+    [UseReporter(typeof(DiffReporter))]
     public class GildedRoseTests
     {
-        [Ignore]
+    //    [Ignore]
         [TestMethod]
         public void ThirtyDaysOfGildedRose()
         {

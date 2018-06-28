@@ -95,6 +95,8 @@
     <Compile Include="Tests\Factorials\FactorialTests.cs" />
     <Compile Include="Tests\GildedRose\GildedRoseApprovalTests.cs" />
     <Compile Include="Tests\GildedRose\GildedRoseExamples.cs" />
+    <Compile Include="Tests\StarWars\EPower.cs" />
+    <Compile Include="Tests\StarWars\Lightsaber.cs" />
     <Compile Include="Tests\StarWars\LightSaberTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
